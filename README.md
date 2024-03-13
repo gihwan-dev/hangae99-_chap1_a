@@ -10,3 +10,6 @@
 
 ### 최적화 및 mjs로 확장자 변경
 <img width="196" alt="스크린샷 2024-03-13 오후 3 16 30" src="https://github.com/gihwan-dev/hangae99-_chap1_a/assets/84307361/7b703229-e7aa-40ec-b665-b878e0168c34">
+
+### 최적화 x 및 mjs로 확장자 변경
+<img width="229" alt="image" src="https://github.com/gihwan-dev/hangae99-_chap1_a/assets/84307361/89aa67f6-2583-4825-bd65-8f75775c0549">
