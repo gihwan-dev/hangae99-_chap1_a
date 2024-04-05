@@ -1,3 +1,7 @@
+# 문제 설명
+1. 프로토타입을 사용해 객체 지향 패러다임을 구현합니다.
+2. V8엔진의 히든 클래스와 인라인 캐싱을 이해하고 이를 통해 주어진 코드를 최적화 합니다.
+
 ## 결과
 <img width="540" alt="image" src="https://github.com/gihwan-dev/hangae99-_chap1_a/assets/84307361/c708b2e2-70d0-48e6-a974-f7c88571fec7">
 
